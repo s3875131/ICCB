@@ -2,17 +2,15 @@
 
 ### Introduction to my profile
 
-My name is Emre Sezgin. I was born in Melbourne, Victoria and now i reside in Brisbane, Queensland. At the moment i am undertaking a bachelor of IT and my up to date education is high school which i graduated last year. Even though i grew up in Melbourne my nationality is Turkish. An interesting fact about me is that even though i love Holdens very much and own one myself, I was very close to buying a Ford and ruining my loyalty to Holden, sadly i am also devastated that the great lion will not be with us any longer.
+My name is Emre Sezgin. I was born in Melbourne, Victoria and now i reside in Brisbane, Queensland. At the moment i am undertaking a bachelor of IT and my up to date education is high school which i just graduated last year. Even though i grew up in Melbourne my nationality is Turkish. An interesting fact about me is that even though i love Holdens very much and own one myself, I was very close to buying a Ford and ruining my loyalty to Holden, sadly i am also devastated that the great lion will not be with us any longer.
 
 
 
 
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
