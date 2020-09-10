@@ -12,20 +12,20 @@ My name is Emre Sezgin. I was born in Melbourne, Victoria and now i reside in Br
 
 
 
-# What interests me in IT
+# What interests me in IT?
 What interests me a lot in IT is its diversity. IT is everywhere and so is the oppurtunities. With IT i could find oppurtunities in health, education, law enforcement,aviation and so the list goes on. With IT the possibilities are limitless and each day the IT sector grows. And i want to be a part of that growth. I want to make a difference with IT. I want to help people and make peoples lives a little bit more easier and less complicated with the skills i learn.  And making a difference dosent seem that hard thanks to the technology that evolves everyday. But for me to make that difference i have to learn and adapt as well. That is why i am here today.
 
 
 
 
-## Why RMIT.
+## Why RMIT?
 RMIT has always been a university that i wanted to study in. My parents also studied at RMIT and it is also native to the best city in Australia. And IT is in the name of the university.
 
 
 
 
 
-### Header 3
+# Header 3
 
 - Bulleted
 - List
