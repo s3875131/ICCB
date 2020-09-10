@@ -1,8 +1,8 @@
-## Welcome to My Profile (Emre Sezgin)
+## Welcome to My Profile (Emre Sezgin)                                                                                Student number: S3875131
 
 ### Introduction to my profile
 
-My name is Emre Sezgin. I was born in Melbourne, Victoria and now i reside in Brisbane, Queensland. At the moment i am undertaking a bachelor of IT. Even though i grew up in Melbourne my nationality is Turkish. An interesting fact about me is that even though i love holdens very much and own one myself, I was very close to buying a Ford and ruining my loyalty to Holden.
+My name is Emre Sezgin. I was born in Melbourne, Victoria and now i reside in Brisbane, Queensland. At the moment i am undertaking a bachelor of IT and my up to date education is high school which i graduated last year. Even though i grew up in Melbourne my nationality is Turkish. An interesting fact about me is that even though i love Holdens very much and own one myself, I was very close to buying a Ford and ruining my loyalty to Holden, sadly i am also devastated that the great lion will not be with us any longer.
 
 
 
