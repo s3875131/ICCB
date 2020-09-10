@@ -1,10 +1,13 @@
-## Welcome to My Profile
+## Welcome to My Profile (Emre Sezgin)
 
-You can use the [editor on GitHub](https://github.com/s3875131/ICCB/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Introduction to my profile
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Emre Sezgin.
 
-### Markdown
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
