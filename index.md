@@ -18,7 +18,13 @@ What interests me a lot in IT is its diversity. IT is everywhere and so is the o
 
 
 
-## Header 2
+## Why RMIT.
+RMIT has always been a university that i wanted to study in. My parents also studied at RMIT and it is also native to the best city in Australia. And IT is in the name of the university.
+
+
+
+
+
 ### Header 3
 
 - Bulleted
