@@ -25,15 +25,14 @@ RMIT has always been a university that i wanted to study in. My parents also stu
 
 
 
-# Header 3
+# The Job I want.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+
+
+
+
 
 [Link](url) and ![Image](src)
 ```
