@@ -20,7 +20,7 @@ What interests me a lot in IT is its diversity. IT is everywhere and so is the o
 
 
 ## Why RMIT?
-RMIT has always been a university that i wanted to study in. My parents also studied at RMIT and it is also native to the best city in Australia. And IT is in the name of the university.
+RMIT has always been a university that i wanted to study in. My parents also studied at RMIT and it is also native to the best city in Australia.
 
 
 
@@ -34,7 +34,12 @@ https://github.com/s3875131/My-Profile/blob/gh-pages/Screen%20Shot%202020-09-13%
 https://smartjobs.qld.gov.au/jobs/QLD-SER352227-20T
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The ideal job that i want is to be technical ICT officer. Fixing up networks or computers and making sure everyhting is up to date. In this role i will be assissting the school with ICT technologies and making sure everything is up to date. Whether installing new equipment or maintaining and fixing equipment.
+
+The reason why i really love and want this job is becuase i can work anywhere. i could work in a hospital, a police station, airport and even in a  school, which is the example i have given for this assignment. I can even volunteer my skills to charity organisations, making sure that their technology is up to date as well.
+
+But for me to be succesfull for this role i have to upskill myself, I only have a high school certificate and have very minimal knowlodge of IT,so i am far away from where i need to be if i want that career, hopefully this degree will get me there. And maybe later when i have enough skills to do work experience or an internship, I will take that oppurtunity and upgrade myself. And hopefully with these oppurtunities i will reach my goal to becoming an IT technical officer. 
+
 
 ### Jekyll Themes
 
