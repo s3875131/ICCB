@@ -1,5 +1,5 @@
 ## Welcome to My Profile (Emre Sezgin)                                                                                Student number: S3875131
-## Email: S3875131@student.rmit.edfu.au
+## Email: S3875131@student.rmit.edu.au
 
 ### Introduction to my profile
 
@@ -34,7 +34,7 @@ https://github.com/s3875131/My-Profile/blob/gh-pages/Screen%20Shot%202020-09-13%
 https://smartjobs.qld.gov.au/jobs/QLD-SER352227-20T
 
 
-The ideal job that i want is to be technical ICT officer. Fixing up networks or computers and making sure everyhting is up to date. In this role i will be assissting the school with ICT technologies and making sure everything is up to date. Whether installing new equipment or maintaining and fixing equipment.
+The ideal job that i want is to be a technical ICT officer. Fixing up networks or computers and making sure everyhting is up to date. In this role i will be assissting the school with ICT technologies and making sure everything is up to date. Whether installing new equipment or maintaining and fixing equipment.
 
 The reason why i really love and want this job is becuase i can work anywhere. i could work in a hospital, a police station, airport and even in a  school, which is the example i have given for this assignment. I can even volunteer my skills to charity organisations, making sure that their technology is up to date as well.
 
