@@ -26,6 +26,7 @@ RMIT has always been a university that i wanted to study in. My parents also stu
 
 
 # The Job I want.
+<img src="https://github.com/s3875131/My-Profile/blob/gh-pages/Screen%20Shot%202020-09-13%20at%2011.26.30%20am.png,style="width:200px;height:300px;">
 
 
 
