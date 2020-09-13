@@ -1,4 +1,5 @@
 ## Welcome to My Profile (Emre Sezgin)                                                                                Student number: S3875131
+## Email: S3875131@student.rmit.edfu.au
 
 ### Introduction to my profile
 
