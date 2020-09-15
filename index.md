@@ -42,13 +42,22 @@ But for me to be succesfull for this role i have to upskill myself, I only have 
 
 
 ## Personality test results.
-https://github.com/s3875131/My-Profile/blob/gh-pages/Screen%20Shot%202020-09-15%20at%202.45.45%20pm.png
+  Myers-Briggs test: https://github.com/s3875131/My-Profile/blob/gh-pages/Screen%20Shot%202020-09-15%20at%202.45.45%20pm.png
+  Online learning style test: https://github.com/s3875131/My-Profile/blob/gh-pages/Screen%20Shot%202020-09-15%20at%203.39.02%20pm.png
+  Big 5 personality test: https://github.com/s3875131/My-Profile/blob/gh-pages/Screen%20Shot%202020-09-15%20at%203.46.28%20pm.png
 
-Advocate is the result that the test has given me. Even though some points that the test has given me is true, I highly disagree with most of the points. One example of the points would be that i have an introvert percentage of 68%. I nor my friends and family did not believe that. They all know me as talkative and will always give a helping hand type of person no matter if i know someone or not. 
+Advocate is the result that the myers-briggs test has given me. Even though some points that the test has given me is true, I highly disagree with most of the points. One example of the points would be that i have an introvert percentage of 68%. I, nor my friends and family did not believe that. They all know me as talkative and will always give a helping hand type of person no matter if i know someone or not. I am known as an extreovert, which will hopefully help when my peers and i start doing group projects. I will always give new ideas and will often sometimes challenge my peers if i diasagree with an idea or if i belive that my idea can make the project some what better then the previous ideas we had in the project. 
 
 The other example would be judging with 57%. I know that i will never judge a person, becuase i will always put myself in their shoes before i come up with ideas about the person.
 
 Overall i highly disagree with the myres-briggs personality test and i do not see myself as what the test results have given me.
+
+
+### My project Idea
+
+
+
+
 
 
 
