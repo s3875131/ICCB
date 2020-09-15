@@ -42,6 +42,7 @@ But for me to be succesfull for this role i have to upskill myself, I only have 
 
 
 ## Personality test results.
+https://github.com/s3875131/My-Profile/blob/gh-pages/Screen%20Shot%202020-09-15%20at%202.45.45%20pm.png
 
 
 
