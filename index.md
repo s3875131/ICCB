@@ -38,7 +38,11 @@ The ideal job that i want is to be a technical ICT officer. Fixing up networks o
 
 The reason why i really love and want this job is becuase i can work anywhere. i could work in a hospital, a police station, airport and even in a  school, which is the example i have given for this assignment. I can even volunteer my skills to charity organisations, making sure that their technology is up to date as well.
 
-But for me to be succesfull for this role i have to upskill myself, I only have a high school certificate and have very minimal knowlodge of IT,so i am far away from where i need to be if i want that career, hopefully this degree will get me there. And maybe later when i have enough skills to do work experience or an internship, I will take that oppurtunity and upgrade myself. And hopefully with these oppurtunities i will reach my goal to becoming an IT technical officer. 
+But for me to be succesfull for this role i have to upskill myself, I only have a high school certificate and have very minimal knowlodge of IT,so i am far away from where i need to be if i want that career, hopefully this degree will get me there. And maybe later when i have enough skills to do work experience or an internship, I will take that oppurtunity and upgrade myself. And hopefully with these oppurtunities i will reach my goal to becoming an IT technical officer.
+
+
+## Personality test results.
+
 
 
 ### Jekyll Themes
