@@ -53,7 +53,24 @@ The other example would be judging with 57%. I know that i will never judge a pe
 Overall i highly disagree with the myres-briggs personality test and i do not see myself as what the test results have given me.
 
 
-### My project Idea
+## My project Idea
+
+My project Idea would be a troubleshooting guide with its app version and a website version. This software would basically give tutorials of how to troubleshoot the users products with video tutorials, texts and even manufacture user guides. It would use the phones camera to scan the barcode of the product or its box, alternativly you can search for the product by its serial number with the use of the serial number searcher. When the user hits the search button after the user has given the brand name, what kind of product it is and obviously the serial number, the software will retrieve the relevant data from its production company on how to troubleshoot the product, third party videos and other users ideas on how they fixed the problem with the product. So instead of searching for how to fix videos on youtube or searching hours on google trying to find forums or other people experinces, this software will give all the relevent information that the user needs with a click of a button.
+
+The reason i want to do this project and what motivates me is that the world we live in has problems with the products we own. Everthing we purchase is not perfect and in the future some time, that product will fail. Eventually you will have to troubleshoot the product or just get rid it. And if you want to learn how to fix it, where do we go to if we have questions? Google. But the difference between google and my product is that when you search something on Google, it will give all results based on the words that you have typed. You will have millions of websites but maybe only 1-2 will be relevant to what you need to know. Sometimes to get to that specific website, forum or video it could take hours of searches, while my app and website will give you only the relevant data that you need saving you time from all the frustating pages you have to go too. 
+
+When the user has a product that starts to fail in its duties or just doesnt work anymore as it use too, the user can use the app downloaded in his phone to scan the barcode of the product (if it has one) or can go online to the webiste and directly search for his product. In an instant all the relevent information will come up with selection of tutorials on how to fix the specific issuie or can read forums that other people have posted regarding the product and the relevent problem. Basically the user has all the resources he needs at his fingertips. And there is also an option where the user himself can contribute by stating his problems with his product and how he fixed it, making it easier for the next person to know the solution. That option is optional of course but the aim here is to make sure that everyone can troubleshoot thier products in a fast and efficient way, making a positive impact on themselves and other users. 
+
+When a user searches for resources the first results the user will get is the products parent companies resources on how to troubleshoot the users product. If the resources is not suffice then the user has the option of checking out 3rd party resources or individual inputs that other users have contributed.
+
+
+Hopefully with this software rolling out, this could help millions of people who are searching online, tireleslly and for hours just to sometimes come out with no results and only with frustration. What i hope to achieve is to make peoples lives a little bit easier while they enjoy thier products. Which means more time using thier product and less time searching for solutions. But even though i cant gurantee that every product will have a resource in the software, the software will try to link the person to someone who knows about the product or to someone who has encounted the similar problem and has found a solution to the problem. Obviously this is after the expert has accepted to showcase what he has done through the app or website. 
+
+And now the world has started going paperless. What I can do is show my product or software to big brands such as LG, Samsung or even Apple. And explain to the companies the software can store the companies products instruction manuals such as fridges, toasters,kettles, mixers etc. And now when a customer buys thier products, the buyers can install the app with my software that will come with a users manual for the specific product the buyer purchased, which is a pdf and also a diy troubleshooting guide online or on the app. And if the user really wants the hardcopy there is a print option available for the instruction manual and the troubleshooting guide. Thus making it cost effective for the big manufacture companies and making my software bundled with guides, manuals and DIY troubleshooting instructions. 
+
+The outcome I want with this software is to make everyone help themselves in the comfort of thier own home. Without making any phone calls or searching on hours for a resource online on how to troubleshoot their own products. Now i know that everything cant be fixed, but these resources are for easy DIY tasks. I hope to see that this software can help people out who live in rural areas or far away from urban areas and cant find a repair shop near by just for an easy repair that they can do themselves. This is what the software is based on. DIY! Teaching people how to do easy repairs in a very efficient and low cost manner (if there is expenses). The software will also show replacement products if need be, but thats not the main goal of the software. 
+
+I hope we can revolutionise problem solving with this software. Its only an idea but hopefully this idea will grow globally to help any troubleshooting need, big or small.
 
 
 
@@ -61,10 +78,11 @@ Overall i highly disagree with the myres-briggs personality test and i do not se
 
 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s3875131/ICCB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
